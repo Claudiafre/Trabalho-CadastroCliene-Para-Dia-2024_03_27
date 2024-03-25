@@ -4,4 +4,4 @@
 
 - Ele vai funcionar da seguinte forma:
   - Ter um Administrador.
-  - Adicionar e remover cadastro de um cliente (seja ativo ou inativo).
+  - Adicionar, editar e remover cadastro de um cliente (seja ativo ou inativo).
